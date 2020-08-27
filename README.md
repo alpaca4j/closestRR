@@ -22,7 +22,7 @@ The [manual](https://coredns.io/manual/toc/#what-is-coredns) will have more info
 A simple way to consume this plugin, is by adding the following on [plugin.cfg](https://github.com/coredns/coredns/blob/master/plugin.cfg), and recompile it as [detailed on coredns.io](https://coredns.io/2017/07/25/compile-time-enabling-or-disabling-plugins/#build-with-compile-time-configuration-file).
 
 ~~~
-closestRR:github.com/alpaca4j/closestAaddress/
+closestRR:github.com/alpaca4j/closestRR/
 ~~~
 
 After this you can compile coredns by:
