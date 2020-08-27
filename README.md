@@ -2,7 +2,8 @@
 
 ## Name
 
-*closestRR* - chooses the closest A record among recived multiple. 
+*closestRR* - if there are multiple A records in a response, the plugin will return only those which fit inside the subnet calculated from requestors IP/23.
+If non of them fit, it returns all records.
 
 
 
