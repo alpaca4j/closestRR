@@ -1,4 +1,4 @@
-# closestRR
+# closestRR - COREDNS plugin
 
 ## Name
 
